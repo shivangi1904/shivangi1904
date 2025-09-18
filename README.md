@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivangi1904
 - 👀 I’m interested in sports,cooking food,learning new skills.... 
-- 🌱 I’m currently learning javascript..
+  
 
 - 📫 Can reach through- linkedIn:SHIVANGI TEOTIA
   
